@@ -1,5 +1,4 @@
-Name; Nwankwo Gideon
-Email; uberposeidonn@gmail.com
-Slack username; ashmore
-Track; backend
-Courses; python, Go, php,C#
+print('Enter Radius')
+x = int(input())
+a = 3.14 * x*x
+print('Radius is:', a)
